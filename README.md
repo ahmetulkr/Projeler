@@ -1,5 +1,6 @@
-# Welcome to GitHub Desktop!
+Şifreleriniz Koruyacağınız Şifreli Kasa
+Kasada belirlediğiniz şifreyi giriyorsunuz  İlk önce yazı yazıyorunuz kaydet butonuna basıtıktan sonra şifreniz kayıt oluruyor Sonradan giriş yaptığınızda yazdır butonuna tıklıyorusunuz ve kayıtlı olan yazı ekrana geliyor 
+Not: Kendimi geliştirmeye çalışıyorum ufak hatalarım olabilir aklımdakileri yaptıktan sonra proje biticektir Dosyaları paylaşacağım sizde geliştirebilirsiniz 
+Projede eksik olanlar : Şifre değiştirme (Yapım aşamasında) , Yazıyı otomatik aktarma .
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Ahmet"DİQNERS"Ülker
