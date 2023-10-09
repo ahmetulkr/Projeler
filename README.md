@@ -3,4 +3,4 @@ Kasada belirlediğiniz şifreyi giriyorsunuz  İlk önce yazı yazıyorunuz kayd
 Not: Kendimi geliştirmeye çalışıyorum ufak hatalarım olabilir aklımdakileri yaptıktan sonra proje biticektir Dosyaları paylaşacağım sizde geliştirebilirsiniz 
 Projede eksik olanlar : Şifre değiştirme (Yapım aşamasında) , Yazıyı otomatik aktarma .
 
-Ahmet"DİQNERS"Ülker
+Ahmet Ülker
